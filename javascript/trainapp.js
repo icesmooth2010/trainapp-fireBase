@@ -1,11 +1,11 @@
 // Initialize Firebase
 var config = {
-  apiKey: "AIzaSyDnY_vZKBBLFKgvuG9rhV1xelqfMoNUWoU",
-  authDomain: "clickbait-afa7e.firebaseapp.com",
-  databaseURL: "https://clickbait-afa7e.firebaseio.com",
-  projectId: "clickbait-afa7e",
-  storageBucket: "clickbait-afa7e.appspot.com",
-  messagingSenderId: "326587447323"
+    apiKey: "AIzaSyAc2oO2N_HK2fC8DDjXoCFUIasrj9pD3xw",
+    authDomain: "my-awesome-train.firebaseapp.com",
+    databaseURL: "https://my-awesome-train.firebaseio.com",
+    projectId: "my-awesome-train",
+    storageBucket: "my-awesome-train.appspot.com",
+    messagingSenderId: "419242956983"
 };
   firebase.initializeApp(config);
   var database = firebase.database();
